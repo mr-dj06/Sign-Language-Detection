@@ -25,7 +25,11 @@ Real-Time Detection
 install python and required dependencies(os, numpy, cvzone, cv2, tensorflow, keras)
 and run the test.py file
 
-now you will be able to see pop up window in which you can show your hand and our model will be able to detect the letter(in the top right corner).
+now you will be able to see pop up window in which you can show your hand and our model will be able to detect the letter(in the top of the box).
 
 You can refer the reference images folder.
 ```
+
+## Images
+
+![Sign Language Detection](https://github.com/user-attachments/assets/57e1727c-b17d-494c-9504-a707e3839113)
